@@ -1,0 +1,6 @@
+@TugasPraktikumPAA1_HostAddress = http://localhost:5218
+
+GET {{TugasPraktikumPAA1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
